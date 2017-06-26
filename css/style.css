@@ -67,7 +67,7 @@ font-weight:100;font-size:15px;
 }
 .line
 {
-width:100%;border-bottom:1px dotted #DDDDDD;
+width:100%;border-bottom:1px solid #DDDDDD;
 -vendor-animation-duration: 10s;
     -vendor-animation-delay: 2s;
     -vendor-animation-iteration-count: infinite;
